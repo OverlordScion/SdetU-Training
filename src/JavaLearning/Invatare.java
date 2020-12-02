@@ -28,7 +28,7 @@ public class Invatare
 	public static void main(String[] args)
 	{ /* public static void main 000 ---> START */
 		
-		JOptionPane.showMessageDialog(null, "Welcomea to Java");
+		JOptionPane.showMessageDialog(null, "Welcome to Java");
 		JOptionPane.showMessageDialog(null, "Linux + Java + Git = <3");
 		
 	} /* public static void main 000 ---> END */
