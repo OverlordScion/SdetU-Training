@@ -28,7 +28,7 @@ public class Invatare
 	public static void main(String[] args)
 	{ /* public static void main 000 ---> START */
 		
-		JOptionPane.showMessageDialog(null, "Welcome to Java");
+		JOptionPane.showMessageDialog(null, "Welcomea to Java");
 		
 	} /* public static void main 000 ---> END */
 	
