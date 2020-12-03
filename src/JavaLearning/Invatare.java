@@ -31,6 +31,7 @@ public class Invatare
 		JOptionPane.showMessageDialog(null, "Welcome to Java");
 		JOptionPane.showMessageDialog(null, "Linux + Java + Git = <3");
 		JOptionPane.showMessageDialog(null, "Invatare cu fetch si merge Git");
+		JOptionPane.showMessageDialog(null, "Dupa fetch si merge - add si push");
 		
 	} /* public static void main 000 ---> END */
 	
