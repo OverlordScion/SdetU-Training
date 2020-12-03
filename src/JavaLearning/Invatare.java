@@ -30,7 +30,7 @@ public class Invatare
 		
 		JOptionPane.showMessageDialog(null, "Welcome to Java");
 		JOptionPane.showMessageDialog(null, "Linux + Java + Git = <3");
-		JOptionPane.showMessageDialog(null, "Code added from Github !!!! ");
+		JOptionPane.showMessageDialog(null, "Invatare cu fetch si merge Git");
 		
 	} /* public static void main 000 ---> END */
 	
